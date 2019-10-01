@@ -8,7 +8,7 @@ Task:
   
   (hints: always pull before you push)
 
-list of completion:
+List of completion:
 
 - [Shruti Garg](https://github.com/gargshruti30)
 - [Ashish Kushwaha](https://github.com/ashkush21)
@@ -18,4 +18,5 @@ list of completion:
    - [Geetanshu Gupta](https://www.github.com/geetanshu2502)
    - [Yash Bansal](https://www.github.com/bansalyash)
    -[Avinash Swaminathan]( https://github.com/avinsit123)
+   -[Mukul Kumar](https://github.com/mukul4728)
   
